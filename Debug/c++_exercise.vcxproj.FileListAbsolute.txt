@@ -1,0 +1,2 @@
+D:\Visual Studio\c++_exercise\Debug\c++_exercise.exe
+D:\Visual Studio\c++_exercise\Debug\c++_exercise.pdb
